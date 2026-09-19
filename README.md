@@ -5,6 +5,11 @@ The **European Jet Fuel Supply Chain & Hedging Optimizer** is an automated, end-
 
 Acting as a digital supply chain manager, this system forecasts daily flight demand, monitors inventory levels to prevent stock-outs, automatically schedules multi-modal deliveries (pipeline, marine cargo, and rail), and tracks global oil markets to alert the commercial team of cost-saving purchasing opportunities.
 
+### 📊 Live Interactive Dashboard
+**[🟢 Click here to explore the live, interactive Excel Dashboard on MS OneDrive](https://1drv.ms/x/c/c497cb947e251d94/IQDSBPpLXKD0Tq6Mf2orwhRTASXfT9h8GVg667as8Krwma4?e=vzfxYq)**
+
+*(Note: The link above provides full "view-only" access to the interactive KPI dashboard. You can use the built-in Slicers to filter the automated inventory drawdown by airport, and isolate the exact days the crack spread triggered a hedging alert.)*
+
 ## 🎯 The Business Problem
 Aviation fuel supply is highly volatile. Analysts must balance rigid storage capacities, fluctuating flight schedules, complex regional logistics, and unpredictable global oil prices. Relying on manual calculations for these variables often leads to over-ordering (causing logistical bottlenecks), under-ordering (risking fuel-outs), or buying fuel at peak market prices.
 
@@ -48,9 +53,6 @@ To make thousands of rows of operational data instantly actionable for managemen
 
 ***
 
-### 📸 Dashboard Previews
-
-*(Note: Add your screenshots to your GitHub repository and link them below!)*
 
 `[Insert Screenshot of the Inventory KPI Chart Here]`
 > *Figure 1: The "Sawtooth" inventory profile demonstrating automated refills preventing stock-outs at Dublin Airport.*
