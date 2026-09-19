@@ -1,7 +1,7 @@
-# ✈️ European Jet Fuel Supply Chain & Hedging Optimizer
+# ✈️ European Jet Fuel Supply Chain & Hedging Optimiser
 
 ## 📌 Project Overview
-The **European Jet Fuel Supply Chain & Hedging Optimizer** is an automated, end-to-end supply chain model built to manage aviation fuel operations across three major European hubs: Frankfurt (FRA), Dublin (DUB), and Geneva (GVA). 
+The **European Jet Fuel Supply Chain & Hedging Optimiser** is an automated, end-to-end supply chain model built to manage aviation fuel operations across three major European hubs: Frankfurt (FRA), Dublin (DUB), and Geneva (GVA). 
 
 Acting as a digital supply chain manager, this system forecasts daily flight demand, monitors inventory levels to prevent stock-outs, automatically schedules multi-modal deliveries (pipeline, marine cargo, and rail), and tracks global oil markets to alert the commercial team of cost-saving purchasing opportunities.
 
