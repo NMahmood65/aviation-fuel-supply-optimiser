@@ -54,8 +54,3 @@ To make thousands of rows of operational data instantly actionable for managemen
 ***
 
 
-`[Insert Screenshot of the Inventory KPI Chart Here]`
-> *Figure 1: The "Sawtooth" inventory profile demonstrating automated refills preventing stock-outs at Dublin Airport.*
-
-`[Insert Screenshot of the Hedging Combo Chart Here]`
-> *Figure 2: The market strategy dashboard highlighting the compression of the Crack Spread and automated hedging alerts.*
