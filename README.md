@@ -8,7 +8,7 @@ Acting as a digital supply chain manager, this system forecasts daily flight dem
 ### 📊 Live Interactive Dashboard
 **[🟢 Click here to explore the live, interactive Excel Dashboard on MS OneDrive](https://1drv.ms/x/c/c497cb947e251d94/IQCDRJMk8TqnRI2FCB-QVk5XAe92dxjsDEoXOSKIndQgojM?e=3yCntI)**
 
-*(Note: The link above provides full "view-only" access to the interactive KPI dashboard. You can use the built-in Slicers to filter the automated inventory drawdown by airport, and isolate the exact days the crack spread triggered a hedging alert.)*
+(Note: The link above provides full "view-only" access to the interactive KPI dashboard. You can use the drop-down filters at the top of the dashboard to filter the automated inventory drawdown by airport, and isolate the exact days the crack spread triggered a hedging alert.)
 
 ## 🎯 The Business Problem
 Aviation fuel supply is highly volatile. Analysts must balance rigid storage capacities, fluctuating flight schedules, complex regional logistics, and unpredictable global oil prices. Relying on manual calculations for these variables often leads to over-ordering (causing logistical bottlenecks), under-ordering (risking fuel-outs), or buying fuel at peak market prices.
